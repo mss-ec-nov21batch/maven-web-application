@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://3.110.37.122:9992/Anil/repository/google-release/</url>
+	      <url>http://13.127.80.227:9992/Anil/repository/google-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.110.37.122:9992/Anil/repository/google-snapshot/</url>
+	      <url>http://13.127.80.227:9992/Anil/repository/google-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
